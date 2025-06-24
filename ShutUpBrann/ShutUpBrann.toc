@@ -1,8 +1,8 @@
-## Interface: 110107
+## Interface: 110200
 ## Title:|cffd6266cShutUpBrann|r
 ## Notes: Mutes specific sounds and hides chat bubbles for Brann/Magni events.
 ## Author: BloodDragon2580
-## Version: 4.7
+## Version: 4.8
 ## IconTexture: Interface\AddOns\ShutUpBrann\Media\Texture\logo
 
 ShutUpBrann.lua
